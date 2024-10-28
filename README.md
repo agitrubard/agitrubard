@@ -15,11 +15,11 @@
 ## **Support**
 
 <p align="center">
-<a href="https://buymeacoffee.com/n8fyqpyf6md"> <img align="center" src="https://bit.ly/4ekTsq0" width="249"></a>
+<a href="https://buymeacoffee.com/n8fyqpyf6md"> <img align="center" src="https://i.hizliresim.com/d427w9w.png" width="249"></a>
 
 ## **Collabration**
 
 <p align="center">
-<a href="http://superpeer.com/agitrubard"> <img align="center" src="https://bit.ly/3VzcFgq" width="249"></a>&emsp;
-<a href="https://fiverr.com/agitrubard"> <img align="center" src="https://bit.ly/45mspqb" width="249"></a>&emsp;
-<a href="https://upwork.com/freelancers/~015f060a0d0fcf7c0b"> <img align="center" src="https://bit.ly/3Vhs0Ry" width="249"></a>
+<a href="http://superpeer.com/agitrubard"> <img align="center" src="https://i.hizliresim.com/3lw7xvj.png" width="249"></a>&emsp;
+<a href="https://fiverr.com/agitrubard"> <img align="center" src="https://i.hizliresim.com/l6f3meg.png" width="249"></a>&emsp;
+<a href="https://upwork.com/freelancers/~015f060a0d0fcf7c0b"> <img align="center" src="https://i.hizliresim.com/8x7t2ob.png" width="249"></a>
