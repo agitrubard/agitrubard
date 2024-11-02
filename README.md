@@ -13,6 +13,6 @@ For questions, cooperation opportunities or help, you can contact Agit via the l
 <a href="https://app.daily.dev/agitrubard"><img align="justify" src="https://api.daily.dev/devcards/v2/Qy2bbcmdRYiU4xLUetILb.png?type=wide&r=6mt" width="500" alt="Agit Rubar Demir's Dev Card"/></a>
 <p>
 <img alt="agitrubard's GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=agitrubard&include_orgs=true&show_icons=true&hide_border=true&title_color=FAC601&icon_color=FAC601&bg_color=193649&text_color=ffffff"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=agitrubard&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=FAC601&icon_color=FAC601&bg_color=193649&text_color=ffffff" width="354"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=agitrubard&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=FAC601&icon_color=FAC601&bg_color=193649&text_color=ffffff" width="330"/>  
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=agitrubard&theme=cobalt2&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=852"/>
