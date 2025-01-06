@@ -6,7 +6,7 @@ His professional journey is characterized by dynamic involvement in diverse proj
 
 In addition, Agit contributes to the open-source community by sharing his expertise on GitHub. Currently, as a volunteer, he leads the Disaster Management System Project end-to-end, providing technical consultancy for Gelecek Bilimde’s back-end application, and passionately supporting various open-source initiatives.
 
-For questions, cooperation opportunities or help, you can contact Agit via the links at <a href="https://buymeacoffee.com/n8fyqpyf6md">agitrubard.me</a>.
+For questions, cooperation opportunities or help, you can contact Agit via the links at <a href="https://agitrubard.me">agitrubard.me</a>
 
 ## **Activity**
 
